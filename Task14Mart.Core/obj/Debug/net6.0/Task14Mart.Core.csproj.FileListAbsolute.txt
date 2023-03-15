@@ -1,0 +1,24 @@
+C:\Users\99455\Desktop\hecer c++\Task14Mart.Core\bin\Debug\net6.0\Task14Mart.Core.deps.json
+C:\Users\99455\Desktop\hecer c++\Task14Mart.Core\bin\Debug\net6.0\Task14Mart.Core.dll
+C:\Users\99455\Desktop\hecer c++\Task14Mart.Core\bin\Debug\net6.0\Task14Mart.Core.pdb
+C:\Users\99455\Desktop\hecer c++\Task14Mart.Core\obj\Debug\net6.0\Task14Mart.Core.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\hecer c++\Task14Mart.Core\obj\Debug\net6.0\Task14Mart.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\hecer c++\Task14Mart.Core\obj\Debug\net6.0\Task14Mart.Core.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\hecer c++\Task14Mart.Core\obj\Debug\net6.0\Task14Mart.Core.AssemblyInfo.cs
+C:\Users\99455\Desktop\hecer c++\Task14Mart.Core\obj\Debug\net6.0\Task14Mart.Core.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\hecer c++\Task14Mart.Core\obj\Debug\net6.0\Task14Mart.Core.dll
+C:\Users\99455\Desktop\hecer c++\Task14Mart.Core\obj\Debug\net6.0\refint\Task14Mart.Core.dll
+C:\Users\99455\Desktop\hecer c++\Task14Mart.Core\obj\Debug\net6.0\Task14Mart.Core.pdb
+C:\Users\99455\Desktop\hecer c++\Task14Mart.Core\obj\Debug\net6.0\ref\Task14Mart.Core.dll
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart.Core\bin\Debug\net6.0\Task14Mart.Core.deps.json
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart.Core\bin\Debug\net6.0\Task14Mart.Core.dll
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart.Core\bin\Debug\net6.0\Task14Mart.Core.pdb
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart.Core\obj\Debug\net6.0\Task14Mart.Core.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart.Core\obj\Debug\net6.0\Task14Mart.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart.Core\obj\Debug\net6.0\Task14Mart.Core.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart.Core\obj\Debug\net6.0\Task14Mart.Core.AssemblyInfo.cs
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart.Core\obj\Debug\net6.0\Task14Mart.Core.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart.Core\obj\Debug\net6.0\Task14Mart.Core.dll
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart.Core\obj\Debug\net6.0\refint\Task14Mart.Core.dll
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart.Core\obj\Debug\net6.0\Task14Mart.Core.pdb
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart.Core\obj\Debug\net6.0\ref\Task14Mart.Core.dll

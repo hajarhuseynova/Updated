@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task14Mart/1.0.0": {
+        "dependencies": {
+          "Task14Mart.Core": "1.0.0"
+        },
+        "runtime": {
+          "Task14Mart.dll": {}
+        }
+      },
+      "Task14Mart.Core/1.0.0": {
+        "runtime": {
+          "Task14Mart.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task14Mart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Task14Mart.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

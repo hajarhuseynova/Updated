@@ -1,0 +1,36 @@
+C:\Users\99455\Desktop\hecer c++\Task14Mart\obj\Debug\net6.0\Task14Mart.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\hecer c++\Task14Mart\obj\Debug\net6.0\Task14Mart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\hecer c++\Task14Mart\obj\Debug\net6.0\Task14Mart.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\hecer c++\Task14Mart\obj\Debug\net6.0\Task14Mart.AssemblyInfo.cs
+C:\Users\99455\Desktop\hecer c++\Task14Mart\obj\Debug\net6.0\Task14Mart.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\hecer c++\Task14Mart\bin\Debug\net6.0\Task14Mart.exe
+C:\Users\99455\Desktop\hecer c++\Task14Mart\bin\Debug\net6.0\Task14Mart.deps.json
+C:\Users\99455\Desktop\hecer c++\Task14Mart\bin\Debug\net6.0\Task14Mart.runtimeconfig.json
+C:\Users\99455\Desktop\hecer c++\Task14Mart\bin\Debug\net6.0\Task14Mart.dll
+C:\Users\99455\Desktop\hecer c++\Task14Mart\bin\Debug\net6.0\Task14Mart.pdb
+C:\Users\99455\Desktop\hecer c++\Task14Mart\bin\Debug\net6.0\Task14Mart.Core.dll
+C:\Users\99455\Desktop\hecer c++\Task14Mart\bin\Debug\net6.0\Task14Mart.Core.pdb
+C:\Users\99455\Desktop\hecer c++\Task14Mart\obj\Debug\net6.0\Task14Mart.csproj.CopyComplete
+C:\Users\99455\Desktop\hecer c++\Task14Mart\obj\Debug\net6.0\Task14Mart.dll
+C:\Users\99455\Desktop\hecer c++\Task14Mart\obj\Debug\net6.0\refint\Task14Mart.dll
+C:\Users\99455\Desktop\hecer c++\Task14Mart\obj\Debug\net6.0\Task14Mart.pdb
+C:\Users\99455\Desktop\hecer c++\Task14Mart\obj\Debug\net6.0\Task14Mart.genruntimeconfig.cache
+C:\Users\99455\Desktop\hecer c++\Task14Mart\obj\Debug\net6.0\ref\Task14Mart.dll
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\bin\Debug\net6.0\Task14Mart.exe
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\bin\Debug\net6.0\Task14Mart.deps.json
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\bin\Debug\net6.0\Task14Mart.runtimeconfig.json
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\bin\Debug\net6.0\Task14Mart.dll
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\bin\Debug\net6.0\Task14Mart.pdb
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\bin\Debug\net6.0\Task14Mart.Core.dll
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\bin\Debug\net6.0\Task14Mart.Core.pdb
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\obj\Debug\net6.0\Task14Mart.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\obj\Debug\net6.0\Task14Mart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\obj\Debug\net6.0\Task14Mart.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\obj\Debug\net6.0\Task14Mart.AssemblyInfo.cs
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\obj\Debug\net6.0\Task14Mart.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\obj\Debug\net6.0\Task14Mart.csproj.CopyComplete
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\obj\Debug\net6.0\Task14Mart.dll
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\obj\Debug\net6.0\refint\Task14Mart.dll
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\obj\Debug\net6.0\Task14Mart.pdb
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\obj\Debug\net6.0\Task14Mart.genruntimeconfig.cache
+C:\Users\99455\Desktop\14Mart.ExtensionTask\Task14Mart\obj\Debug\net6.0\ref\Task14Mart.dll

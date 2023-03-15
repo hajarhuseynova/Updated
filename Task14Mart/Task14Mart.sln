@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task14Mart", "Task14Mart.csproj", "{C2D0CCD7-4F31-4473-8156-D4B2403DD777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task14Mart.Core", "..\Task14Mart.Core\Task14Mart.Core.csproj", "{828B3B0D-660A-464F-AADD-EF33004A2668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D0CCD7-4F31-4473-8156-D4B2403DD777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D0CCD7-4F31-4473-8156-D4B2403DD777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D0CCD7-4F31-4473-8156-D4B2403DD777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D0CCD7-4F31-4473-8156-D4B2403DD777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828B3B0D-660A-464F-AADD-EF33004A2668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828B3B0D-660A-464F-AADD-EF33004A2668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828B3B0D-660A-464F-AADD-EF33004A2668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828B3B0D-660A-464F-AADD-EF33004A2668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AA9C331-AB3E-470C-99EA-0E4A5E4F3FE5}
+	EndGlobalSection
+EndGlobal
